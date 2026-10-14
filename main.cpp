@@ -1,3 +1,7 @@
+/*
+ * 出典：https://github.com/pealsha/Atcoder-Template-cpp
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
